@@ -1,0 +1,58 @@
+.fullscreen-bg {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%!important;
+}
+
+.video-section{
+    height: 100vh;
+}
+
+.video-text{
+    position: absolute;
+    z-index: 999999;
+    bottom:0;
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+.landing-icon{
+    font-size: 110px!important;
+
+}
+
+.scroll-icon {
+    cursor: pointer;
+    color: #CE3782;
+    text-shadow: 0px 15px 0px #CE3782;
+    font-size: 7em !important;
+    margin-bottom: 5px !important;
+}
+
+.scroll-icon:hover {
+    cursor: pointer;
+    color: #f5f5f5;
+    text-shadow: 0 0 15px #f5f5f5;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+.section-1{
+    height: 100vh;
+    max-height: 100%;
+}
+
+.banner-text{
+    color: white;
+    font-size: 6rem;
+}
