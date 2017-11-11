@@ -56,3 +56,15 @@
     color: white;
     font-size: 6rem;
 }
+
+h1 {
+    color: #CE3782;
+    font-size: 5rem;
+}
+    
+#new-member{
+position: relative;
+left: -4%;
+color: #CE3782!important;
+font-size: 2.5rem;
+}
